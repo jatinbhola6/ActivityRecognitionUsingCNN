@@ -1,1 +1,3 @@
-# ActivityRecognitionUsingCNN
+# Activity Recognition Modelling
+#### I am trying to solve a problem of classify actions being performed by a person using data recorded from three sensors placed on that person's body. This data is obtained from [Activity Recognition system based on Multisensor data fusion (AReM) Data Set](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+(AReM)).
+#### Dataset contains multiple files segregated into multiple folders where each folder is for a particular type of activity that is our target feature. Each file is a session of activity containing 480 measurements recorded from sensors over a period of 120 seconds. Each entry contains average and variance of 3 RSS values of communication between three sensors placed on chest and ankles of person performing activities.
